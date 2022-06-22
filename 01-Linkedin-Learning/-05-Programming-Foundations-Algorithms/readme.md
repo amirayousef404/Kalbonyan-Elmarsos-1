@@ -10,5 +10,8 @@
 - Searching data
 - Filtering and value counting with hash tables
 -------------------------------
-[Course Link](https://www.linkedin.com/learning/programming-foundations-algorithms/)
-<br>[Preview Certificate]()
+**Course Link:**[Programming Foundations: Algorithms](https://www.linkedin.com/learning/programming-foundations-algorithms/)
+<h5><a href="#certificate"></a>Certificate</h5>
+<p align="center">
+  <img  src="https://media-exp2.licdn.com/dms/image/C4D1FAQFRYNiQ-OoxUw/feedshare-document-cover-images_1280/0/1649376711871?e=1656543600&v=beta&t=t0iqBsnvnoQq0ye7ey9ENuvJSx-huJgfPPEVH7oKWww" width="700">
+</p>
