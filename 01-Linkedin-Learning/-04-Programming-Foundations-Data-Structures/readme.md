@@ -12,5 +12,8 @@
 - Hash functions and hash tables
 - Trees and graphs
 -------------------------------
-[Course Link](https://www.linkedin.com/learning/programming-foundations-data-structures-2/)
-<br>[Preview Certificate]()
+**Course Link:**[Programming Foundations: Data Structures](https://www.linkedin.com/learning/programming-foundations-data-structures-2/)
+<h5><a href="#certificate"></a>Certificate</h5>
+<p align="center">
+  <img  src="https://media-exp2.licdn.com/dms/image/C4E1FAQHFtF2IwEG7pg/feedshare-document-cover-images_1280/0/1649213626339?e=1656543600&v=beta&t=U6bLlfnml0H5g4UPf8Vq2dC2znxmwWqw4ZimFSYAFgM" width="700">
+</p>
