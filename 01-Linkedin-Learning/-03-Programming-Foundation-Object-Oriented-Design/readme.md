@@ -14,5 +14,8 @@
 - Working with inheritance
 - Developing software with object-oriented design principles
 -------------------------------
-[Course Link](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/)
-<br>[Preview Certificate]()
+**Course Link:**[Programming Foundations: Object-Oriented Design](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/)
+<h5><a href="#certificate"></a>Certificate</h5>
+<p align="center">
+  <img  src="https://media-exp2.licdn.com/dms/image/C4E1FAQGQRWwQWKaaVA/feedshare-document-cover-images_1280/0/1649129028767?e=1656543600&v=beta&t=dp8ByBY-OF01nddRCz10ERrzyP8lVPZlIkR6M4dyib8" width="700">
+</p>
