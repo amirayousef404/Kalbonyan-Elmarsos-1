@@ -14,5 +14,8 @@
 - Troubleshooting errors
 - Learning about other languages
 -------------------------------
-<br>[Course Link](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/)
-<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/5e3b8b7e0a0ad5430bf633c849554d46b0060179bef39edb0f31a1aa8fba48eb?trk=share_certificate)
+<br>[Course Link][Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/)
+<h5><a href="#certificate"></a>Certificate</h5>
+<p align="center">
+  <img  src="https://media-exp2.licdn.com/dms/image/C4E1FAQFYvRoVklFFNA/feedshare-document-cover-images_1280/0/1648781369434?e=1656536400&v=beta&t=wqwYp_eyVuzyt8p43_imUtLkOGn1zZ-f5g0Tgt7xjlk" width="700">
+</p>
