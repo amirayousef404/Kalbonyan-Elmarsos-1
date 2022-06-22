@@ -14,5 +14,8 @@
 - Joining tables
 - Modifying data
 -------------------------------
-[Course Link](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database)
-<br>[Preview Certificate]()
+**Course Link:**[Programming Foundations: Databases](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database)
+<h5><a href="#certificate"></a>Certificate</h5>
+<p align="center">
+  <img  src="https://media-exp2.licdn.com/dms/image/C4E1FAQFIplRhyaFi_w/feedshare-document-cover-images_1280/0/1650165485667?e=1656543600&v=beta&t=6p5Myg2hkbayoCby3POw5Mj4DKilvJcYk_VtAkDn3v0" width="700">
+</p>
