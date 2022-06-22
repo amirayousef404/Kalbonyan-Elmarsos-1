@@ -1,1 +1,25 @@
-The Modern JavaScript Bootcamp
+<!DOCTYPE html>
+<html>
+  <head> </head>
+  <body>
+    <h1>Notes App</h1>
+    <h2>Take notes and never forget</h2>
+    <input id="search-text" type="text" placeholder="filter todos" />
+    <select id="filter-by">
+      <option value="byEdited">sort by last edited</option>
+      <option value="byCreated">sort by recently created</option>
+      <option value="alphabetical">sort alphabetically</option>
+    </select>
+    <div id="notes"></div>
+    <button id="create">Create Note</button>
+    <script src="http://wzrd.in/standalone/uuid%2Fv4@latest"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment-with-locales.min.js"
+      integrity="sha512-dMDTUgZkz1nUtYksAL8IisEkdCDNBuAC+mSnWRPlANDVvvVnGn9h3xKPOq6Bbr/2sRQMTf6SA7ZlRSnbs7TCAw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <script src="notes-functions.js"></script>
+    <script src="notes-app.js"></script>
+  </body>
+</html>

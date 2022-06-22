@@ -1,1 +1,1 @@
-The Modern JavaScript Bootcamp
+(()=>{"use strict";console.log(`${"amira".toUpperCase()}!`)})();
